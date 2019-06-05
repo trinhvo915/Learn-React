@@ -1,23 +1,48 @@
-import React,{ useState } from 'react';
+import React, { Component } from 'react';
 import './App.css';
-import Person from './nav/person';
-import Example  from './nav/Example';
+import dataFilm from './data/film';
+import TableFilm from './film/TableFilm';
+import Nav from './nav/Nav';
+import { createStore } from 'redux'
 
-let App = () => {
-  let array = ["askdj",3,5,7];
-  let arr = [...array,9,"9"];
-  console.log(arr);
-  const [student, setStudent] = useState(
-    {name: "sdfasd", age:null}
-  );
-  return (
-    <div>
-      <span>Hello</span>
-      <Person name = "Hung demo" age = "23"/>
-      <Person name = "Hung 1" age = "24"/>
-      <Example name = {student.name} age = {student.age} set = {()=> setStudent(student)}/>
-    </div>
-  );
+var initData = {
+  film : []
+};
+
+let myReducer = (state = initData, action) =>{
+  switch(action.type){
+    case 'GET_DATA': 
+      return initData.film = action.data;
+    default :
+      return initData.film;
+  }
 }
+
+const store = createStore(myReducer);
+
+var actionFilm =  {
+  type : 'GET_DATA',
+  data : dataFilm
+};
+
+store.dispatch(actionFilm);
+
+class App extends Component {
+  render() {
+    //console.log(initState);
+    return (
+      <div>
+        <Nav/>
+        <div className="row">
+          <div className="col-2">col-4</div>
+          <div className="col-10">
+            <TableFilm data={initData} />
+          </div>
+        </div>
+      </div>
+    );
+  }
+}
+
 export default App;
 
