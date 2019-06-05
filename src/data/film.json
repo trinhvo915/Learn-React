@@ -1,0 +1,437 @@
+[
+    {
+      "id_film": 1,
+      "name_vn": "Nhà tù Shawshank",
+      "name_en": "The Shawshank Redemption 2",
+      "year": "2019-02-17",
+      "time": 140,
+      "actors": "Tim Robbins, Morgan Freeman, Bob Gunton",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "link_img_avt": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "link_img_bg": "https://m.media-amazon.com/images/M/MV5BMTM0NjUxMDk5MF5BMl5BanBnXkFtZTcwNDMxNDY3Mw@@._V1_SY1000_SX1500_AL_.jpg",
+      "link_film": "http://www.phimmoi.net/phim/nha-tu-shawshank-i1-301/xem-phim.html",
+      "link_trailer": "https://youtu.be/6hB3S9bIaco",
+      "views_week": 0,
+      "views_month": 0,
+      "kindFilm": [
+        {
+          "id_kind": 3,
+          "name_kind": "Drama"
+        }
+      ]
+    },
+    {
+      "id_film": 2,
+      "name_vn": "Bố già",
+      "name_en": "The Godfather",
+      "year": "2019-02-17",
+      "time": 170,
+      "actors": "Marlon Brando, Al Pacino, James Caan",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "link_img_avt": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SY1000_CR0,0,704,1000_AL_.jpg",
+      "link_img_bg": "https://m.media-amazon.com/images/M/MV5BNDVkY2M1MTItMTdlOS00MDQ3LTliNTUtY2FmMGE1MDYxMmFhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+      "link_film": "http://gdurl.com/IR9q/download",
+      "link_trailer": "https://youtu.be/sY1S34973zA",
+      "views_week": 4,
+      "views_month": 4,
+      "kindFilm": [
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        },
+        {
+          "id_kind": 3,
+          "name_kind": "Drama"
+        }
+      ]
+    },
+    {
+      "id_film": 3,
+      "name_vn": "Kỵ sỹ bóng đêm",
+      "name_en": "The Dark Knight",
+      "year": "2019-02-17",
+      "time": 150,
+      "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "link_img_avt": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "link_img_bg": "https://m.media-amazon.com/images/M/MV5BNTQwODYzMDg0NV5BMl5BanBnXkFtZTcwMzcxMTk2Mw@@._V1_SY1000_CR0,0,1297,1000_AL_.jpg",
+      "link_film": "https://gdurl.com/KQl6/download",
+      "link_trailer": "https://youtu.be/yQ5U8suTUw0",
+      "views_week": 1,
+      "views_month": 1,
+      "kindFilm": [
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        },
+        {
+          "id_kind": 1,
+          "name_kind": "Action"
+        },
+        {
+          "id_kind": 3,
+          "name_kind": "Drama"
+        }
+      ]
+    },
+    {
+      "id_film": 4,
+      "name_vn": "KHI CÁC QUÁ PHỤ NỔI LOẠN",
+      "name_en": "THE WOMEN ACTION",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Viola Davis, Michelle Rodriguez, Elizabeth Debicki, Liam Neeson",
+      "description": "Tác phẩm hành động giật gân mới nhất từ chủ nhân tượng vàng Oscar - đạo diễn Steve McQueen (đạo diễn phim 12 Years A Slave, đồng biên kịch Gillian Flynn (tác giả tiểu thuyết ăn khách Gone Girl). Câu chuyện về 04 góa phụ gồm Veronica (chủ nhân tượng vàng Oscar Viola Davis), Alice (Elizabeth Debicki), Linda (Michelle Rodriguez) and Belle (Cynthia Erivo) cùng hợp lực giành lại những gì thuộc về họ sau khi chồng họ qua đời vì một vụ cướp bất thành. ",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/khi-cac-goa-phu-hanh-dong-2018.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/khi-cac-goa-phu-hanh-dong-2018.jpg",
+      "link_film": "http://hayhaytv.com/phim/khi-cac-goa-phu-hanh-dong-4367/tap-full-26276.html",
+      "link_trailer": "http://hayhaytv.com/phim/khi-cac-goa-phu-hanh-dong-4367/tap-full-26276.html",
+      "views_week": 5,
+      "views_month": 3,
+      "kindFilm": [
+        {
+          "id_kind": 4,
+          "name_kind": "Biography"
+        },
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        },
+        {
+          "id_kind": 7,
+          "name_kind": "Fantasy"
+        }
+      ]
+    },
+    {
+      "id_film": 5,
+      "name_vn": "Cận vệ Nam Trung Hải",
+      "name_en": "The Bodyguard From Beijing - The Defender",
+      "year": "1994-02-17",
+      "time": 90,
+      "actors": "Lý Liên Kiệt, Kente Cheng, Kollin Chou",
+      "description": "Cận Vệ Nam Trung Hải là bộ phim hành động - võ thuật với sự tham gia của ngôi sao võ thuật Lý Liên Kiệt và diễn viên Chung Lệ Đề hứa hẹn nhiều hấp dẫn. Lý Liên Kiệt vào vai một cận vệ bảo vệ nữ nhân chứng xinh đẹp Chung Lệ Đề thoát khỏi sự truy sát của băng đảng xã hội đen do Ngai Sing cầm đầu.",
+      "link_img_avt": "http://s.aphim.org/uploads/film/images/modsz/20161104/9b07b00ee6dd91e14370775572dbd6a5_228_320.jpg",
+      "link_img_bg": "http://2.bp.blogspot.com/-CLq6O4GATJY/WONBjDzdZ2I/AAAAAAADyQA/duiFd1syKvo/s0/phim-58e341804af56.jpg",
+      "link_film": "https://onedrive.live.com/download?cid=0FEFEE837C274E9F&resid=FEFEE837C274E9F%211674&authkey=AHdcpnzHtHDWGaw",
+      "link_trailer": "https://youtu.be/yQ5U8suTUw0",
+      "views_week": 1,
+      "views_month": 1,
+      "kindFilm": [
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        },
+        {
+          "id_kind": 1,
+          "name_kind": "Action"
+        }
+      ]
+    },
+    {
+      "id_film": 6,
+      "name_vn": "CÓ CHƠI CÓ NHẬN",
+      "name_en": "Pain & Gain (2013)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Mark Wahlberg, Dwayne Johnson, Anthony Mackie",
+      "description": "Pain & Gain là bộ phim dựa trên một câu chuyện có thật từng được đăng tải trên tờ Miami New Times. Bối cảnh của phim là thành phố Miami những năm 1990. Trong phim, ba chàng huấn luyện viên thể hình bắt cóc một doanh nhân giàu có nhằm hiện thực hóa nhanh chóng giấc mơ Mỹ của mình. Tuy nhiên, kế hoạch đó không diễn ra như mong muốn. Ba nhân vật chính nhanh chóng nhận ra rằng phi vụ của họ chỉ đem lại những vụ đấu súng, cảnh sát và sự thù oán với các băng nhóm tội phạm địa phương. ",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/painand-gain-2013.JPG",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/painand-gain-2013.JPG",
+      "link_film": "http://hayhaytv.com/phim/co-choi-co-nhan-4351/tap-full-26255.html",
+      "link_trailer": "http://hayhaytv.com/phim/co-choi-co-nhan-4351/tap-full-26255.html",
+      "views_week": 9,
+      "views_month": 6,
+      "kindFilm": [
+        {
+          "id_kind": 8,
+          "name_kind": "Comedy"
+        },
+        {
+          "id_kind": 6,
+          "name_kind": "Adventure"
+        },
+        {
+          "id_kind": 5,
+          "name_kind": "History"
+        },
+        {
+          "id_kind": 9,
+          "name_kind": "Musical"
+        }
+      ]
+    },
+    {
+      "id_film": 7,
+      "name_vn": "THIÊN Y VÔ CÙNG",
+      "name_en": "Spy Hunter (2019)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Tần Tuấn Kiệt, Từ Lộ, Lục Nghị, Hồ Hải Phong, Trương Chỉ Khê, Chu Cương Nhật Nghiêu, Mạc Tiểu Kỳ, Tôn Thuyên, Đinh Dũng Đại",
+      "description": "Mùa xuân năm 1931, đảng cộng sản trung ương ở Thượng Hải, Đại Bộ Quảng Đông, Cáp Nhĩ Tân và nhiều thành phố khác xây dựng các trạm giao thông đỏ. Đặc công đỏ “Yên Hàng” và “Thanh Sứ” tính toán ở Tây Âu xây dựng một tuyến đường giao thông ngầm mới, xây dựng kho bí mật, vận chuyển bảo vệ vật tư quan trọng của đảng cộng sản trung ương đồng thời hộ tống lãnh đạo đảng cộng sản thuận lợi đến được nơi cần đến. Song, trạm giao thông đỏ ở Paris đột nhiên bị kẻ phản bội bán đứng, toàn bộ thành viên của tổ đều bị tráo đổi, “Yên Hàng” Quý Uyển không may bị hại, anh trai cùng cha khác mẹ của Quý Uyển là Tư Lịch Bình dày công sắp đặt đại kế phục thù trong một tháng, dẫn người anh khác là Quý Dực nhập cuộc, nhân cơ hội tìm kiếm hung thủ sát hại em gái mình Quý Uyển. Tư Lịch Bình và Quý Dực liên thủ phá giải từng lớp câu đố, tín ngưỡng và tinh thần khi Quý Uyển còn sống được hai người dần dần thấu hiểu, quyết tâm vì Quý Uyển mà diệt sạch những kẻ phản bội. Chính tại lúc hai người đang xây dựng lại tuyến giao thông đỏ thì “phản điệp” chân chính xuất đầu lộ diện. Kết cục sinh tử đồng loạt công bố, kinh động lòng người.",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/thien-y-vo-phung-2019_1547755226.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/thien-y-vo-phung-2019_1547755226.jpg",
+      "link_film": "http://hayhaytv.com/phim/thien-y-vo-phung-4315/xem-phim.html",
+      "link_trailer": "http://hayhaytv.com/phim/thien-y-vo-phung-4315/xem-phim.html",
+      "views_week": 9,
+      "views_month": 3,
+      "kindFilm": [
+        {
+          "id_kind": 4,
+          "name_kind": "Biography"
+        },
+        {
+          "id_kind": 7,
+          "name_kind": "Fantasy"
+        }
+      ]
+    },
+    {
+      "id_film": 9,
+      "name_vn": "SÁT THỦ MARY",
+      "name_en": "Proud Mary (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Taraji P. Henson, Billy Brown, Jahi DiAllo Winston",
+      "description": "Bộ phim nói về nữ sát thủ Mary (do diễn viên Taraji P. Henson thủ vai). Mary là nữ sát thủ chuyên nghiệp có tiếng. Cô làm việc cho tổ chức tội phạm ở Boston (Mỹ). Cô có cuộc sống hoàn hảo của một nữ sát thủ cho đến khi Mary gặp một cậu bé trong quá trình làm nhiệm vụ. Điều này đã khiến cuộc sống của nữ sát thủ chuyên nghiệp bỗng trở lên xáo trộn...",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/Poster.jpg.493d7d8644c1820977737ec7a73f06f9.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/Poster.jpg.493d7d8644c1820977737ec7a73f06f9.jpg",
+      "link_film": "http://hayhaytv.com/phim/sat-thu-mary-4347/tap-full-26250.html",
+      "link_trailer": "http://hayhaytv.com/phim/sat-thu-mary-4347/tap-full-26250.html",
+      "views_week": 9,
+      "views_month": 6,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 10,
+      "name_vn": "NŨ THẦN BÁO THÙ",
+      "name_en": "Miss Ma, Goddess of Revenge (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Kim Yunjin, Jung Woong In, Ko Sung-Hee, Choi Kwang-Je, Sung Ji-Ru, Myung Gye-Nam",
+      "description": "Dựa trên tiểu thuyết \"Miss Marple\" của tác giả Agatha Christie, Ms. Ma, Nemesis là câu chuyện kể về Ma Ji Won , người phụ nữ bị buộc tội ám sát con gái mình và đã trốn khỏi nhà tù. Để tìm ra sự thật về cái chết của con gái, cô ta buộc phải giải quyết các vụ án xung quanh mình.",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/42310066_610486162702710_8136598108934245955_n.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/42310066_610486162702710_8136598108934245955_n.jpg",
+      "link_film": "http://hayhaytv.com/phim/nu-than-bao-thu-4272/tap-1-25744.html",
+      "link_trailer": "http://hayhaytv.com/phim/nu-than-bao-thu-4272/tap-1-25744.html",
+      "views_week": 9,
+      "views_month": 3,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 11,
+      "name_vn": "KẾ HOẠCH BẮC HÀN",
+      "name_en": "The Spy Gone North (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Jung-min Hwang, Sung-min Lee, Jin-Woong Cho",
+      "description": "The Spy Gone North được xây dựng dựa trên câu chuyện có thật về cựu điệp viên Hàn Quốc Park Chae Seo, tác phẩm mới nhất của đạo diễn Nameless Gangster Yoon Jong Bin xoay quanh một mật vụ Nam Hàn đột nhập Bắc Hàn để đánh cắp kế hoạch chế tạo vũ khí hạt nhân của đất nước này những năm 1990.",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/the-spygone-north-2018a.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/the-spygone-north-2018a.jpg",
+      "link_film": "http://hayhaytv.com/phim/ke-hoach-bac-han-4312/xem-phim.html",
+      "link_trailer": "http://hayhaytv.com/phim/ke-hoach-bac-han-4312/xem-phim.html",
+      "views_week": 9,
+      "views_month": 4,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 12,
+      "name_vn": "NHỮNG KẺ CƯỚP NHÀ BĂNG",
+      "name_en": "Bonnie and Clyde (1967)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Warren Beatty, Faye Dunaway, Michael J. Pollard",
+      "description": "Hai kẻ lang thang, tình cờ gặp nhau và trở thành đôi nam nữ cướp nhà băng lừng danh bị truy lùng trên khắp nước Mỹ. Tuy nhiên, bộ đôi liều mạng này vẫn thoát được các cuộc truy đuổi của pháp luật. Hành trình cướp bóc của họ còn có thêm Buck, anh trai của Clyde mới ra tù và cô vợ lắm mồm của anh ta. Trong một cuộc truy đuổi sau đó, Buck bị bắn chết, vợ của anh ta bị bắt. Bonnie và Clyde tiếp tục chạy trốn và muốn dừng chân để sống hạnh phúc bên nhau, nhưng liệu mơ ước của họ có trở thành sự thật? ",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/Poster.jpg.c2c575248e2154172ad38864cdaf4afd.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/Poster.jpg.c2c575248e2154172ad38864cdaf4afd.jpg",
+      "link_film": "http://hayhaytv.com/phim/nhung-ke-cuop-nha-bang-4238/tap-full-25435.html",
+      "link_trailer": "http://hayhaytv.com/phim/nhung-ke-cuop-nha-bang-4238/tap-full-25435.html",
+      "views_week": 9,
+      "views_month": 3,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 13,
+      "name_vn": "VƯỢT NGỤC TRẠI TỬ THẦN",
+      "name_en": "Sobibor (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Konstantin Khabenskiy, Christopher Lambert, Mariya Kozhevnikova",
+      "description": "Vào năm 1943 trong trại tập trung “Sobibor” của bọn Đức quốc xã, nơi chứa hàng trăm tù nhân, trong đó có nhân vật chính của bộ phim là trung úy của quân đội xô viết Aleksandr Pechersky. Cùng với các tù nhân khác, trong mấy tuần anh đã vạch ra kế hoạch vượt ngục sau khi tiến hành cuộc nổi dậy thành công duy nhất trong lịch sử của các trại tập trung Đức Quốc xã, kết quả là hơn 300 người đã được cứu thoát. ",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/Poster.jpg.7174528186dcf471b47737f3541bde9c.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/Poster.jpg.7174528186dcf471b47737f3541bde9c.jpg",
+      "link_film": "http://hayhaytv.com/phim/vuot-nguc-trai-tu-than-4193/tap-full-25201.html",
+      "link_trailer": "http://hayhaytv.com/phim/vuot-nguc-trai-tu-than-4193/tap-full-25201.html",
+      "views_week": 9,
+      "views_month": 3,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 14,
+      "name_vn": "KẺ SĂN TIN ĐEN",
+      "name_en": "Nightcrawler (2014)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Jake Gyllenhaal, Rene Russo, Bill Paxton",
+      "description": "Nightcrawler - với ngôi sao Jake Gyllenhaal trong vai Louis Bloom, một chàng trai trẻ nỗ lực đến điên cuồng để đạt tới thành công và danh vọng. Quyết định rằng mình thích hợp với ngành báo chí truyền thông, Bloom tham gia hành nghề như một phóng viên tự do chuyên về vấn đề tội phạm tại thành phố Los Angeles. Tuy nhiên, không phải người phóng viên nào cũng giữ được mình trong sạch khi dấn thân vào con đường đầy hiểm nguy và cám dỗ này...",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/ke-san-tin-den-2014.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/ke-san-tin-den-2014.jpg",
+      "link_film": "http://hayhaytv.com/phim/ke-san-tin-den-3802/tap-full-19260.html",
+      "link_trailer": "http://hayhaytv.com/phim/ke-san-tin-den-3802/tap-full-19260.html",
+      "views_week": 9,
+      "views_month": 2,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 15,
+      "name_vn": "XÁC CHẾT QUỶ ÁM ",
+      "name_en": "The Possession of Hannah Grace (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Shay Mitchell, Grey Damon, Kirby Johnson",
+      "description": "Megan Reed (Shay Mitchell) là một nữ bác sĩ có vấn đề về tâm lý nên luôn cần sự hỗ trợ của thuốc an thần trong những ca trực đêm tại nhà xác trong bệnh viện. Một ngày nọ, cô nhận được xác chết nhăn nhúm của Hannah Grace (Kirby Johnson) - người được cho là đã chết sau một buổi trừ tà thất bại.",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/4936_Possession_of_Hannah_Grace_-_Poster_-_Vietnam.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/4936_Possession_of_Hannah_Grace_-_Poster_-_Vietnam.jpg",
+      "link_film": "http://hayhaytv.com/phim/xac-chet-quy-am-4356/tap-full-26263.html",
+      "link_trailer": "http://hayhaytv.com/phim/xac-chet-quy-am-4356/tap-full-26263.html",
+      "views_week": 4,
+      "views_month": 8,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 16,
+      "name_vn": "THÁM TỬ LỪNG DANH CONAM",
+      "name_en": "Detective Conan 22: Zero the Enforcer (2018)",
+      "year": "2019-02-25",
+      "time": 60,
+      "actors": "Tôru Furuya, Megumi Hayashibara, Rikiya Koyama",
+      "description": "Một vụ nổ lớn xảy ra trước ngày tổ chức Hội Nghị Thượng Đỉnh Tokyo… Camera an ninh ghi lại hình ảnh Amuro - nhân vật bí ẩn mang “ba bộ mặt”- Mật vụ Cục Cảnh sát Anh ninh Quốc Gia, Thám tử thực tập, Thành viên của tổ chức Áo Đen - thoáng xuất hiện. Ngay sau vụ nổ, Cảnh sát bất ngờ phát hiện dấu vân tay của Thám tử Kogoro Mori tại hiện trường và bắt giam ông để điều tra, buộc Conan phải vào cuộc để tìm ra sự thật. Nhưng... nhân vật bí ẩn Amuro luôn xuất hiện ngăn cản Conan hoàn thành nhiệm vụ. Liệu Conan có cứu được Mori? Nhân vật “ba mặt” Amuro rốt cuộc là ai?... ",
+      "link_img_avt": "http://img.hdsieuhay.com/upload/conan-20-movie.jpg",
+      "link_img_bg": "http://img.hdsieuhay.com/upload/conan-20-movie.jpg",
+      "link_film": "http://hayhaytv.com/phim/tham-tu-lung-danh-conan-22-ke-hanh-phap-zero-4222/tap-full-25320.html",
+      "link_trailer": "http://hayhaytv.com/phim/tham-tu-lung-danh-conan-22-ke-hanh-phap-zero-4222/tap-full-25320.html",
+      "views_week": 5,
+      "views_month": 8,
+      "kindFilm": [
+        
+      ]
+    },
+    {
+      "id_film": 19,
+      "name_vn": "Kỵ sỹ bóng đêm",
+      "name_en": "The Dark Knight night",
+      "year": "2019-02-17",
+      "time": 90,
+      "actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+      "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "link_img_avt": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "link_img_bg": "https://m.media-amazon.com/images/M/MV5BNTQwODYzMDg0NV5BMl5BanBnXkFtZTcwMzcxMTk2Mw@@._V1_SY1000_CR0,0,1297,1000_AL_.jpg",
+      "link_film": "http://www.phimmoi.net/phim/ky-si-bong-dem-307/xem-phim.html",
+      "link_trailer": "https://youtu.be/yQ5U8suTUw0",
+      "views_week": 3,
+      "views_month": 3,
+      "kindFilm": [
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        },
+        {
+          "id_kind": 3,
+          "name_kind": "Drama"
+        }
+      ]
+    },
+    {
+      "id_film": 52,
+      "name_vn": "CHIẾN DỊCH OVERLORD",
+      "name_en": "Overlord",
+      "year": "2018-01-01",
+      "time": 105,
+      "actors": "Jovan Adepo, Wyatt Russell, Pilou Asbæk, John Magaro, Iain De Caestecker, Jacob Anderson",
+      "description": "Vào đêm trước ngày đổ bộ tấn công (D-Day), đội lính Mỹ bị tụt lại phía sau các để thực hiện nhiệm vụ quan trọng đối với sự thành công của chiến dịch. Khi họ tiếp cận mục tiêu của mình, họ bắt đầu nhận ra rằng có nhiều điều kì lạ đang diễn ra trong ngôi làng bị chiếm đóng bởi Quốc xã này hơn là một hoạt động quân sự đơn giản. Họ phải chiến đấu chống lại một lực lượng siêu nhiên - đội quân ngàn năm, một sản phẩm của thí nghiệm Đức quốc xã.",
+      "link_img_avt": "http://image.phimmoi.net/film/7297/poster.medium.jpg",
+      "link_img_bg": "http://image.phimmoi.net/film/7297/poster.medium.jpg",
+      "link_film": "https://onedrive.live.com/download?cid=C79027481ED8A57A&resid=C79027481ED8A57A%2134010&authkey=AJH4fJfDVRo3Z_U",
+      "link_trailer": "",
+      "views_week": 10,
+      "views_month": 10,
+      "kindFilm": [
+        {
+          "id_kind": 6,
+          "name_kind": "Adventure"
+        },
+        {
+          "id_kind": 1,
+          "name_kind": "Action"
+        }
+      ]
+    },
+    {
+      "id_film": 62,
+      "name_vn": "Aquaman: Đế vương Atlantic",
+      "name_en": "Aquaman",
+      "year": "2018-01-01",
+      "time": 143,
+      "actors": "Jason Momoa, Amber Heard, Willem Dafoe, Patrick Wilson, Nicole Kidman, Dolph Lundgren",
+      "description": "Sau những sự kiện trong Justice League, Arthur Curry / Aquaman trở về biển cả và bắt đầu đảm nhận quyền thừa kế vương quốc Atlantis dưới sự cố vấn của công chúa Mera. Thế nhưng, đế chế huyền thoại bao năm ẩn mình dưới lòng biển sâu Atlantics sắp phải dậy sóng khi Orm quyết tâm thu phục 7 chủng tộc nơi đáy đại dương để tiêu diệt toàn bộ sự sống trên mặt đất.\nGiữa lúc biển xanh cuộn trào những đợt sóng dữ dội nhất Aquaman sẽ đương đầu với mọi việc như thế nào để bảo vệ quê hương và thế giới? ",
+      "link_img_avt": "http://image.phimmoi.net/film/7090/poster.medium.jpg",
+      "link_img_bg": "http://image.phimmoi.net/film/7090/poster.medium.jpg",
+      "link_film": "https://onedrive.live.com/download?cid=C79027481ED8A57A&resid=C79027481ED8A57A%2134011&authkey=ABy4LcMRm6QAHGo",
+      "link_trailer": "",
+      "views_week": 9,
+      "views_month": 9,
+      "kindFilm": [
+        {
+          "id_kind": 6,
+          "name_kind": "Adventure"
+        },
+        {
+          "id_kind": 7,
+          "name_kind": "Fantasy"
+        },
+        {
+          "id_kind": 1,
+          "name_kind": "Action"
+        }
+      ]
+    },
+    {
+      "id_film": 72,
+      "name_vn": "name",
+      "name_en": "name",
+      "year": "1970-01-01",
+      "time": 200,
+      "actors": "actor",
+      "description": "des",
+      "link_img_avt": "https://www.dvd-ppt-slideshow.com/images/ppt-background/background-1.jpg",
+      "link_img_bg": "https://www.dvd-ppt-slideshow.com/images/ppt-background/background-1.jpg",
+      "link_film": "youtube.com",
+      "link_trailer": "youtube.com",
+      "views_week": 0,
+      "views_month": 0,
+      "kindFilm": [
+        {
+          "id_kind": 4,
+          "name_kind": "Biography"
+        },
+        {
+          "id_kind": 2,
+          "name_kind": "Crime"
+        }
+      ]
+    }
+  ]
