@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './css/film.css';
 import { connect } from 'react-redux';
 import * as actions from './../actions/index';
+import AddFaculty from './AddFaculty';
 
 var ShowTable = (props) => (
     props.data.map( (value,key) => {
@@ -23,6 +24,8 @@ class TableFilm extends Component {
        console.log("this table",this.props.films);
         return (
             <div>
+                <AddFaculty/>
+                <br/>
                 <table>
                     <thead>
                         <tr>
