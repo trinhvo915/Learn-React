@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import './css/film.css';
 import { connect } from 'react-redux';
 import * as actions from './../actions/index';
+import AddFaculty from './AddFaculty';
+import * as APIs from '../services/call-api';
 
 var ShowTable = (props) => (
     props.data.map( (value,key) => {
@@ -15,14 +17,25 @@ var ShowTable = (props) => (
 )
 
 class TableFilm extends Component {
+
+    constructor(props){
+        super(props);
+        this.state = {
+            films : []
+        }
+    }
     componentDidMount(){
         this.props.getFilmAPI();
     }
     
     render() {
        console.log("this table",this.props.films);
+       let  faculties =  APIs.callAPI('api/faculty','GET',null);
+       console.log("this ",faculties);
         return (
             <div>
+                <AddFaculty/>
+                <br/>
                 <table>
                     <thead>
                         <tr>
@@ -41,14 +54,14 @@ class TableFilm extends Component {
 
 const mapStateToPros = (state)=>{
     return {
-      films : state.filmReducer.films
+        films : state.filmReducer.films
     }
-  }
+}
   
 const mapDispatchToProps = (dispatch) => {
     return {
         getFilmAPI: () => {
-        return actions.getAPIFilms(dispatch);
+            return actions.getAPIFilms(dispatch);
         }
     }
 }

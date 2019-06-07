@@ -1,18 +1,17 @@
 import axios from 'axios';
 import * as config from '../constans/config';
-export const callAPI = async (endpoint, method = "GET", data, type) => {
+export const callAPI = async (endpoint, method = "GET", data) => {
     let dataAPI = null;
+    console.log("dataAPI",data);
     try{
         dataAPI = await axios({
             method,
             url: `${config.Url}/${endpoint}`,
-            data,
-            headers: {
-              'content-type': type || 'application/json',
-            }
+            data
         });
+        console.log(dataAPI)
     }catch (e) {
-        console.log(e);
+        console.log("error",e);
         dataAPI = e.response
     }finally {
         return dataAPI;
