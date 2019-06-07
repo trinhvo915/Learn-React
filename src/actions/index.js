@@ -9,9 +9,10 @@ export const listFaculty = (faculties)=>{
 }
 
 export const getAPIFilms = async (dispatch)=>{
-    let faculties = [];
+    let faculties = null;
     try {
         faculties = await APIs.callAPI('api/faculty','GET',null);
+        console.log(faculties)
     } catch (error) {
         console.log(error);
         faculties = [];
@@ -35,19 +36,22 @@ export const postFail = (message) =>{
 
 export const postFacultyAPI = async (name, dispatch) =>{
     let faculty = null;
-    const formData = new FormData();
-    formData.append('name', name);
+    // console.log("name",name);
+    // const formData = new FormData();
+    // formData.append('name', name);
     const message = 'Add Fail';
     try {
-        const type = 'multipart/form-data';
-        faculty = await APIs.callAPI('api/faculty','POST', formData,type);
+        const type = 'application/json';
+        faculty = await APIs.callAPI('api/faculty','POST', name);
+        
     } catch (error) {
         console.log(error);
         faculty = null;
     }
+
     if(faculty){
-        return dispatch.postSucces(faculty);
+        return dispatch(postSucces(faculty));
     }else {
-        return dispatch.postFail(message)
+        return dispatch(postFail(message));
     }
 }
