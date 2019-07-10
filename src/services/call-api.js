@@ -10,10 +10,14 @@ export const callAPI = async (endpoint, method = "GET", data) => {
             data
         });
         console.log(dataAPI)
+		console.log(dataAPI)
+		console.log(dataAPI)	
     }catch (e) {
         console.log("error",e);
         dataAPI = e.response
     }finally {
+		console.log(dataAPI)	
+		console.log(dataAPI)	
         return dataAPI;
     }
   }
