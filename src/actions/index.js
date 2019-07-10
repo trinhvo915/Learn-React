@@ -36,9 +36,6 @@ export const postFail = (message) =>{
 
 export const postFacultyAPI = async (name, dispatch) =>{
     let faculty = null;
-    // console.log("name",name);
-    // const formData = new FormData();
-    // formData.append('name', name);
     const message = 'Add Fail';
     try {
         const type = 'application/json';
